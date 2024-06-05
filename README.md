@@ -41,13 +41,7 @@ Database Setup
     
 ## Usage
 
-```javascript
-import Component from 'my-project'
 
-function App() {
-  return <Component />
-}
-```
 #### 1. Starting the Server
 
 - Start the Tomcat server to run the backend application.
